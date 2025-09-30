@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1759234443 source:c:\nsu\temp\grades\main.c
+	<stdio.h>
+	<stdlib.h>
+
