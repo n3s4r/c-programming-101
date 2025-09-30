@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1759232860 source:c:\nsu\temp\dog\main.c
+	<stdio.h>
+	<stdlib.h>
+
