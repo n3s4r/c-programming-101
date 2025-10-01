@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1759236522 source:c:\nsu\temp\zebra\main.c
+	<stdio.h>
+	<stdlib.h>
+
