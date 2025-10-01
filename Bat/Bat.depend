@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1759316315 source:c:\nsu\temp\bat\main.c
+	<stdio.h>
+	<stdlib.h>
+
