@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1761497599 source:c:\nsu\tmp\static_scoping\main.c
+	<stdio.h>
+	<stdlib.h>
+
